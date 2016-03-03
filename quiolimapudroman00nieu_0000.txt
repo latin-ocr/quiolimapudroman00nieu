@@ -1,0 +1,76 @@
+     
+     
+      
+     
+     
+        
+   
+   
+  
+  
+  
+  
+  
+    
+    
+
+PYOCedure ἡ
+
+l. Place at least 8''>(l0'' gray (or white) cards on the cradle, with s
+press the cards against the underside of the platen glass,
+2. Set the cameras at the 400 ΡΡΙ position.
+
+ 
+
+lMPORTANT ΝοΤΕ - an 8”><ΙΟ” gray card underfills the
+7.3”><ΙΟ.9” field of view (FOV) at 400 ΡΡΙ, so be sure to r
+metering mode as described below to only sample the cei
+'l'he normal evaluative metering rnode samples nearly the
+the outer portion could improperly alter the exposure de
+Setting the optirnal exposure at 400 ΡΡΙ, rather than 500 l
+advantageous for two reasons, First, the effective apertur
+focal length. lmages tal<en with the sarne exposure setting
+be about 116 stop brighter than at 400 ΡΡΙ, while images t
+will be about 116 stop fainter. Βγ setting the exposure for
+differences will be only ὲ 116 stop from the optirnal expo
+as much as -i- ll3 stop, if the optimum exposure were set
+Second, a modest fraction of lenses have been observed
+about 116 stop at 500 ΡΡΙ, while no lens has ever shown ε
+400 ΡΡΙ, making that ΡΡΙ setting more reliable for exposui
+
+   
+ 
+ 
+ 
+  
+
+3. lnstall a Compact Flash card (any capacity or speed) in the first
+
+4. Connect cameras via usss cables to computer with Canon carn<
+
+5. Set the camera shooting mode to aperture priority <Av> (Ca
+rotating the rnode dial on top of the camera body.
+
+6. Turn on only one of the cameras (applies for all operations).
+
+7. When the Εο5 Utility cornes up on the monitor, select the ''C.
+shooting'' option, which will bring up the EOS Capture Windo
+
+8. Set the aperture and lSO speed as specified, per the following ν
+in parentheses to indicate that those are expected values, to bs
+gray card at the specified aperture and lSO settingS. ΑΙΙ four s=
+exposure level. ‘l'he tradeoffs are that higher lSO produces a s
+noise‚ which is nonetheless lil<ely to be visually imperceptible =
+contrast-enhanced irnageS. Wider apertures (fl4.o is wider tha
+vignetting (darkening toward the edges of the images), not us
+white page. 'l'he current recommendation is option 3, which
+lower lSO setting than the extreme values in the table, for- les
+
+()1125
+
+  
+
+  
+
+  
+

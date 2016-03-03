@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quiolimapudroman00nieu_0355.png"; bbox 0 0 1794 2933; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 99 42 1652 2596">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 99 42 1652 2596">
+     <span class='ocr_line' id='line_1_1' title="bbox 99 42 1652 2596"><span class='ocrx_word' id='word_1_1' title='bbox 99 42 1652 2596; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 852 2124 888 2187">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 852 2124 888 2187">
+     <span class='ocr_line' id='line_1_2' title="bbox 852 2124 888 2187; baseline 31.5 -63"><span class='ocrx_word' id='word_1_2' title='bbox 852 2124 888 2187; x_wconf 49' lang='grc' dir='ltr'>,ἰ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 848 2223 940 2439">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 848 2223 940 2439">
+     <span class='ocr_line' id='line_1_3' title="bbox 848 2223 940 2439; baseline 108 -864"><span class='ocrx_word' id='word_1_3' title='bbox 848 2223 891 2239; x_wconf 58' lang='lat'>1</span> <span class='ocrx_word' id='word_1_4' title='bbox 850 2249 904 2338; x_wconf 56' lang='grc' dir='ltr'>ἐξ</span> <span class='ocrx_word' id='word_1_5' title='bbox 873 2346 913 2357; x_wconf 10' lang='grc' dir='ltr'>,γ</span> <span class='ocrx_word' id='word_1_6' title='bbox 889 2398 940 2439; x_wconf 52' lang='grc' dir='ltr'>ἐ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
